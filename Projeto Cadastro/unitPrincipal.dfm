@@ -14,13 +14,6 @@ object Form1: TForm1
   Position = poScreenCenter
   PixelsPerInch = 96
   TextHeight = 13
-  object Label3: TLabel
-    Left = 136
-    Top = 256
-    Width = 31
-    Height = 13
-    Caption = 'Label3'
-  end
   object Panel1: TPanel
     Left = 0
     Top = 0
@@ -30,7 +23,6 @@ object Form1: TForm1
     Color = clWhite
     ParentBackground = False
     TabOrder = 0
-    ExplicitTop = -6
     object Label1: TLabel
       Left = 1
       Top = 1
@@ -46,7 +38,7 @@ object Form1: TForm1
       ParentFont = False
       Layout = tlCenter
       ExplicitLeft = 4
-      ExplicitTop = -4
+      ExplicitTop = 20
     end
     object Button1: TButton
       Left = 544
@@ -86,15 +78,11 @@ object Form1: TForm1
     Top = 73
     Width = 1040
     Height = 427
-    ActivePage = TabSheet1
+    ActivePage = TabSheet2
     Align = alClient
     TabOrder = 1
-    ExplicitTop = 78
-    ExplicitHeight = 706
     object TabSheet1: TTabSheet
       Caption = 'Dados Pessoais'
-      ExplicitLeft = 1
-      ExplicitHeight = 678
       object Label2: TLabel
         Left = 48
         Top = 24
@@ -322,17 +310,92 @@ object Form1: TForm1
     object TabSheet2: TTabSheet
       Caption = 'Dados do C'#244'njuge'
       ImageIndex = 1
-      ExplicitHeight = 678
+      object Label16: TLabel
+        Left = 24
+        Top = 21
+        Width = 85
+        Height = 13
+        Caption = 'Nome do C'#244'njuge'
+      end
+      object Label17: TLabel
+        Left = 392
+        Top = 21
+        Width = 19
+        Height = 13
+        Caption = 'CPF'
+      end
+      object Label18: TLabel
+        Left = 24
+        Top = 85
+        Width = 96
+        Height = 13
+        Caption = 'Data de Nascimento'
+      end
+      object Edit12: TEdit
+        Left = 24
+        Top = 40
+        Width = 313
+        Height = 21
+        TabOrder = 0
+      end
+      object Edit13: TEdit
+        Left = 392
+        Top = 40
+        Width = 201
+        Height = 21
+        TabOrder = 1
+      end
+      object Edit14: TEdit
+        Left = 24
+        Top = 104
+        Width = 161
+        Height = 21
+        TabOrder = 2
+      end
+      object GroupBox1: TGroupBox
+        Left = 309
+        Top = 140
+        Width = 625
+        Height = 209
+        Caption = 'Contatos do C'#244'njuge'
+        TabOrder = 3
+        object Label19: TLabel
+          Left = 16
+          Top = 37
+          Width = 33
+          Height = 13
+          Caption = 'Celular'
+        end
+        object Label3: TLabel
+          Left = 18
+          Top = 120
+          Width = 28
+          Height = 13
+          Caption = 'E-mail'
+        end
+        object Edit15: TEdit
+          Left = 16
+          Top = 56
+          Width = 201
+          Height = 21
+          TabOrder = 0
+        end
+      end
     end
     object TabSheet3: TTabSheet
       Caption = 'Dados do Trabalho'
       ImageIndex = 2
-      ExplicitHeight = 678
     end
     object TabSheet4: TTabSheet
       Caption = 'An'#225'lise de Cr'#233'dito'
       ImageIndex = 3
-      ExplicitHeight = 678
     end
+  end
+  object Edit16: TEdit
+    Left = 329
+    Top = 376
+    Width = 201
+    Height = 21
+    TabOrder = 2
   end
 end
