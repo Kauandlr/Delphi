@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/31 11:07:33.000.661,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/31 11:08:03.000.334,C:\Users\Usuario\Documents\Delphi\Projeto Clinica\unitPrincipal.pas=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/31 11:08:03.000.334,C:\Users\Usuario\Documents\Delphi\Projeto Clinica\unitPrincipal.dfm=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/01/31 11:08:09.000.975,C:\Users\Usuario\Documents\Delphi\Projeto Clinica\Clinica.dproj=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/01/31 15:18:35.465,=C:\Users\Usuario\Documents\Delphi\Projeto Clinica\Unit2.pas</Transaction>
+    <Transaction>2024/01/31 15:19:17.254,C:\Users\Usuario\Documents\Delphi\Projeto Clinica\unitCadPacientes.pas=C:\Users\Usuario\Documents\Delphi\Projeto Clinica\Unit2.pas</Transaction>
+    <Transaction>2024/01/31 15:19:17.254,C:\Users\Usuario\Documents\Delphi\Projeto Clinica\unitCadPacientes.dfm=C:\Users\Usuario\Documents\Delphi\Projeto Clinica\Unit2.dfm</Transaction>
+    <Transaction>2024/01/31 15:19:29.584,=C:\Users\Usuario\Documents\Delphi\Projeto Clinica\Unit3.pas</Transaction>
+    <Transaction>2024/01/31 15:20:01.922,C:\Users\Usuario\Documents\Delphi\Projeto Clinica\unitCadAgendamentos.dfm=C:\Users\Usuario\Documents\Delphi\Projeto Clinica\Unit3.dfm</Transaction>
+    <Transaction>2024/01/31 15:20:01.922,C:\Users\Usuario\Documents\Delphi\Projeto Clinica\unitCadAgendamentos.pas=C:\Users\Usuario\Documents\Delphi\Projeto Clinica\Unit3.pas</Transaction>
+  </Transactions>
+</BorlandProject>
